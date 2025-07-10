@@ -10,14 +10,11 @@ Overview of my projects completed Hive, a 42 school in Helsinki.
 
 ## Projects
 
-C Standard Library
-
-Terminal Print Function
-
-Line Retrieval Function
-
-Virtual Machine Setup
-
-Wireframe Program
-
-Stack Sorting
+| Title                   | Description | Grade |   |   |
+|-------------------------|-------------|-------|---|---|
+| C Standard Library      |             |       |   |   |
+| Terminal Print Function |             |       |   |   |
+| Line Retrieval Function |             |       |   |   |
+| Virtual Machine Setup   |             |       |   |   |
+| Wireframe Program       |             |       |   |   |
+| Stack Sorting           |             |       |   |   |
