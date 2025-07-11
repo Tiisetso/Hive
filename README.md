@@ -2,13 +2,11 @@
 
 Overview of my projects completed at [Hive](https://www.hive.fi/en/), a [42 school](https://www.42network.org/) in Helsinki, Finland.
 
----
-
 ## Introduction
+
 Hive is a peer to peer learning school where students primarily learn the fundamentals of C and C++. Along with core curriculum there are many side projects, hackathons, and workshops that take place at the school. Each with their own requirements pertaining to style and language. 
 
 This page serves as a summary of all the projects I completed at Hive both solo and as a part of teams. The titles of projects have been adapted to be less esoteric so will not match 1 to 1 with my fellow students. However the work presented below has been completed to same exacting standard and it is my hope that the code speaks for itself. 
----
 
 ## Projects
 
