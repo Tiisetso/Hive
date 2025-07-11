@@ -1,5 +1,3 @@
-# Hive
-
 Overview of my projects completed at [Hive](https://www.hive.fi/en/), a [42 school](https://www.42network.org/) in Helsinki, Finland.
 
 ## Introduction
